@@ -8,9 +8,12 @@ We are the Purdue University Electrical & Computer Engineering Society (ECESS)! 
   - Faculty Outreach
   - Multicultural
   - Publicity
+  - Social Outreach
   - Spark Challenge
   - Website Development
   - Women in Electrical & Computer Engineering (WECE)
+
+If you are looking to join our organization, please visit our website (under development) or email ecess@purdue.edu. Boiler Up, Hammer Down!
 
 <!--
 **ecesspurdue/ecesspurdue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
