@@ -2,7 +2,7 @@
 
 We are the Purdue University Electrical & Computer Engineering Society (ECESS)! Our purpose is to provide ECE students with an educational and professional community aimed at preparing students for a rigorous academic program, exploring educational and professional post-baccalaureate options and making the most out of their Purdue Experience.
 
-## 👯 Organization Committees: 
+## Organization Committees: 
   - Electrical & Computer Engineering Ambassadors (ECEA)
   - Community Outreach
   - Faculty Outreach
